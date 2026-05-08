@@ -67,6 +67,3 @@ SQL
 
 elearning_analysis.sql – Contains database creation, data insertion, and analytical queries.
 
-Help you write a LinkedIn project post
-
-Or help you add this project properly in your resume 🚀
